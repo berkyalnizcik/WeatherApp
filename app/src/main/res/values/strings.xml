@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="error_try_again">Error,Try Again!</string>
+    <string name="city_name">city name</string>
+    <string name="defaultCelsius">10C</string>
+    <string name="default_country_code">Country Code</string>
+    <string name="default_city_name">City Name</string>
+    <string name="humidity">Humidity :</string>
+    <string name="speed">Speed :</string>
+    <string name="latitude">Latitude :</string>
+    <string name="longitude">Longitude :</string>
+    <string name="default_data">data</string>
+    <string name="weather_icon_name">Weather Icon</string>
+    <string name="search_icon_name">Search Icon</string>
+</resources>
