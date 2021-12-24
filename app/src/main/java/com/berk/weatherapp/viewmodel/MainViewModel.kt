@@ -1,9 +1,9 @@
-package com.example.weatherapp.viewmodel
+package com.berk.weatherapp.viewmodel
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.weatherapp.model.WeatherModel
-import com.example.weatherapp.service.WeatherAPIService
+import com.berk.weatherapp.model.WeatherModel
+import com.berk.weatherapp.service.WeatherAPIService
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.observers.DisposableSingleObserver

@@ -1,4 +1,4 @@
-package com.example.weatherapp.view
+package com.berk.weatherapp.ui
 
 import android.annotation.SuppressLint
 import android.content.SharedPreferences
@@ -7,10 +7,10 @@ import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProviders
 import com.bumptech.glide.Glide
-import com.example.weatherapp.databinding.ActivityMainBinding
-import com.example.weatherapp.util.Constants.CITY_DEF
-import com.example.weatherapp.util.Constants.CITY_NAME
-import com.example.weatherapp.viewmodel.MainViewModel
+import com.berk.weatherapp.databinding.ActivityMainBinding
+import com.berk.weatherapp.util.Constants.CITY_DEF
+import com.berk.weatherapp.util.Constants.CITY_NAME
+import com.berk.weatherapp.viewmodel.MainViewModel
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

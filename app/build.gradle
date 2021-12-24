@@ -9,7 +9,7 @@ android {
         viewBinding true
     }
     defaultConfig {
-        applicationId "com.example.weatherapp"
+        applicationId "com.berk.weatherapp"
         minSdk 24
         targetSdk 31
         versionCode 1

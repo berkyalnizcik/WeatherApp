@@ -1,7 +1,7 @@
-package com.example.weatherapp.service
+package com.berk.weatherapp.service
 
-import com.example.weatherapp.model.WeatherModel
-import com.example.weatherapp.util.Constants.BASE_URL
+import com.berk.weatherapp.model.WeatherModel
+import com.berk.weatherapp.util.Constants.BASE_URL
 import io.reactivex.Single
 import retrofit2.Retrofit
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
